@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandinura98
-- 👀 I’m interested in c# java c c++ linux php nodejs bootstrap javascript sql
+- 👀 I’m interested in c# java c c++ linux php nodejs bootstrap javascript sql python
 - 🌱 I’m currently learning androidstudio
 - 💞️ I’m looking to collaborate on good respectfull developers
 - 📫 How to reach me batuhansenogluis@gmail.com || whatsapp : +905303988501
